@@ -29,7 +29,7 @@
     
 ***
 
-## Quan:
+## Quantumult-X:
 
 ### JP:
 
