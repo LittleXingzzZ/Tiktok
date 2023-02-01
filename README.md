@@ -37,30 +37,30 @@
 
 ### JP:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-JP.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-JP.conf
     
 ### KR:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-KR.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-KR.conf
 
 ### US:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-US.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-US.conf
 
 ### TW:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-TW.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-TW.conf
 
 ### UK:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-UK.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-UK.conf
     
 ### SG:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-SG.conf
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/TikTok-SG.conf
     
 
 ### 分流:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Tiktok.list
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/TikTok.list
 
