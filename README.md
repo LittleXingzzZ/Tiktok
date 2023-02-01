@@ -55,5 +55,5 @@
 
 ### 分流:
 
-    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/TikTok.list
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Tiktok.list
 
