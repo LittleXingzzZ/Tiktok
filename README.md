@@ -22,6 +22,10 @@
 ### UK:
 
     https://raw.githubusercontent.com/LittleXingzzZ/Shadowrocket/main/Script/TikTok-UK.conf
+    
+### SG:
+
+    https://raw.githubusercontent.com/LittleXingzzZ/Shadowrocket/main/Script/TikTok-SG.conf
 
 ### 分流:
 
@@ -50,6 +54,10 @@
 ### UK:
 
     https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-UK.conf
+    
+### SG:
+
+    https://raw.githubusercontent.com/LittleXingzzZ/Quantumult-X/main/Script/Tiktok-SG.conf
     
 
 ### 分流:
